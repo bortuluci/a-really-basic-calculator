@@ -1,7 +1,7 @@
 #This is a basic calculator. I'm bored, haha!
 online = 1
  
-while online == 1:
+while online == 1: 
   number1 = float(input("insert the first number: "))
   operator = input("insert the operator: ") # + | - | * | /
   number2 = float(input("Insert the second number: "))
